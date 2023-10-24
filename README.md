@@ -18,5 +18,5 @@
 ## 모든 개발자를 위한 HTTP 웹 기본 지식
 - [IP](http/IP.md)
 - [TCP,UDP](http/TCP,UDP.md)
-- [PORT](PORT.md)
-- [DNS](DNS.md)
+- [PORT](http/PORT.md)
+- [DNS](http/DNS.md)
