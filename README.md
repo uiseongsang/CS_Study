@@ -23,3 +23,6 @@
 
 ## Database
 - [Index](DB/index.md)
+  
+## Spring
+- [WAS(Web Application Server)와 WS(Web Server)의 차이](Spring/WAS_WS.md)
