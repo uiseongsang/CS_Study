@@ -18,6 +18,8 @@
 정적 컨텐츠: 모든 클라이언트에게 동일한 웹페이지를 보여준다.
 동적 컨텐츠: 사용자에 따라 웹페이지를 보여준다.
 -> Web Server에는 client의 요청과 응답에 대해서만 수행하는 부분만 남기고 다른 동적 컨텐츠를 위한 질의와 구성들은 WAS로 분리한다.
+![image](https://github.com/uiseongsang/CS_Study/assets/40707686/3a608159-abbb-49df-b991-47051f930135)
+
 
 ### CGI (Common Gateway Interface)
 웹 서버들간의 정보를 주고받는 일종의 규칙.
