@@ -33,6 +33,8 @@ EX) 사용자가 로그인을 할 때, 사용자는 ID,PW를 입력하고 로그
 5. DoGet() OR DoPost() 메소드는 동적 페이지를 생성한 후 HttpServletResponse 객체에 응답을 보냅니다.
 6. 응답이 끝나면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킵니다.
 
+![image](https://github.com/uiseongsang/CS_Study/assets/40707686/dc6e433c-d6cf-4ba9-86c3-c1f363331ceb)
+
 # Servlet Container
 서블릿을 관리해주는 컨테이너
 
