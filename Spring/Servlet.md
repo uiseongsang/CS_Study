@@ -1,4 +1,4 @@
-[WAS(Web Application Server)와 WS(Web Server)의 차이](Spring/WAS_WS.md)
+[WAS(Web Application Server)와 WS(Web Server)의 차이](WAS_WS.md)
 에서 "JAVA 이러한 CGI규격을 맞추기 위한 기술을 가지고 있는데 그것을 서블릿이라고 한다."
 
 -> WS,WAS,CGI 대해서 모른다면 보시는걸 추천드립니다.
