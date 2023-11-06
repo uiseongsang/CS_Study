@@ -14,6 +14,7 @@
 - [프로세스와 스레드의 차이는 무엇인가요?](CS_Interview/Procss_Thread.md)
 - [멀티 스레드는 무엇인가요?](CS_Interview/MultiThread.md)
 - [멀티 스레드와 멀티 프로세스의 차이는 무엇인가요?](CS_Interview/MultiThread_MultiProcess.md)
+- [운영 체제 (CPU, RAM, GPU, 메모리](CS_Interview/운영%20체제%20(CPU%2C%20RAM%2C%20GPU%2C%20메모리).md)
 
 
 ## 모든 개발자를 위한 HTTP 웹 기본 지식
