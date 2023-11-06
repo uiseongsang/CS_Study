@@ -13,6 +13,7 @@
 - [REST API란 무엇인지 설명 해 주세요](CS_Interview/REST_API.md)
 - [프로세스와 스레드의 차이는 무엇인가요?](CS_Interview/Procss_Thread.md)
 - [멀티 스레드는 무엇인가요?](CS_Interview/MultiThread.md)
+- [멀티 스레드와 멀티 프로세스의 차이는 무엇인가요?](CS_Interview/MultiThread_MultiProcess.md)
 
 
 ## 모든 개발자를 위한 HTTP 웹 기본 지식
