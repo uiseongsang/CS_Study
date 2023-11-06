@@ -27,4 +27,4 @@
   
 ## Spring
 - [WAS(Web Application Server)와 WS(Web Server)의 차이](Spring/WAS_WS.md)
-- [Servlet와 Servlet Container](Spring/Servlet.md)
+- [Servlet와 Servlet Container](Spring/Servlet.md)
