@@ -84,7 +84,7 @@ L2,L3 캐시메모리는 메인 메모리에 있는 데이터를 캐시 메모�
 
 외부 단편화: 프로그램의 크기보다 분할의 크기가 작은 경우에는 해당 분할이 비어 있는데도 불구하고 프로그램을 적재하지 못하기에 발생하는 현상
 
-![image](https://github.com/uiseongsang/CS_Study/assets/40707686/e1686b00-840f-4f4d-908e-6a8361641ab7)
+![image](https://github.com/uiseongsang/CS_Study/assets/40707686/e5f1a054-7821-444f-8cbd-03765cd0fd47)
 
 
 내부 단편화: 프로그램이 크기보다 분할의 크기가 큰 경우 해당 분할에 프로그램을 적재하고 남는 현상
