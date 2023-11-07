@@ -1,12 +1,16 @@
-# 메모리 (메모리 계층, 웹 브라우저의 캐시, 가상 메모리, 메모리 할당을 포함하여)
+# 메모리 (메모리 계층, 웹 브라우저의 캐시, 가상 메모리, 메모리 할당)
 
 이전 시간에 메모리에 대해서 설명을 했습니다.
 간략하게 정리를 하자면 레지스터 > 캐시메모리(SRAM) > 메인메모리(DRAM) > 하드디스크(HDD)입니다.
+
 잘 기억이 안 나신다면 아래의 링크를 통해 다시 복습하시면 좋을거 같습니다.
-[메모리](https://github.com/uiseongsang/CS_Study/blob/main2/CS_Interview/운영%20체제%20(CPU%2C%20RAM%2C%20GPU%2C%20메모리).md#메모리)
+
+클릭 -> [메모리](https://github.com/uiseongsang/CS_Study/blob/main2/CS_Interview/운영%20체제%20(CPU%2C%20RAM%2C%20GPU%2C%20메모리).md#메모리)
 
 ## 메모리 계층
 <img width="668" alt="image" src="https://github.com/uiseongsang/CS_Study/assets/40707686/b79936bc-d03b-411b-81c1-28fe767d8644">
+
+</br>
 
 여기서 캐시를 좀 더 세분화를 하면
 
