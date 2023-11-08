@@ -59,7 +59,9 @@ WHERE tran_code IN
    WHERE debit_creait = 1);
 ```
 daily_trans: 은행의 그날의 모든 거래 내역
+
 transaction_types: 거래의 종류 (debit(체크키드) or credit(신용카드))
+
 debit_credit: 1: debit, 2: credit
 
 SubQuery는 간결성, 목적의 명확성이 있을 때 사용하므로 IN 및 EXISTS SubQuery는 메인 쿼리와 함께 쓰일 때 그 의미가 명확하다. -> 코드 이해하기 쉽다
